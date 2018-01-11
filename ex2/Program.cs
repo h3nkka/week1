@@ -39,6 +39,7 @@ namespace ex2
                 case 12:
                     Console.WriteLine("School grade is 5");
                     break;
+                //break;
             }
             Console.ReadKey(true);
         }
