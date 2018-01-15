@@ -8,7 +8,7 @@ namespace week1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //stuff
         {
             Console.WriteLine("Enter a number between 1 and 3");
             int input = Int32.Parse(Console.ReadLine());
